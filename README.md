@@ -20,16 +20,16 @@
         ¡Hola! Soy <b>Darío Rivas</b>, tengo 19 años y actualmente curso el Grado Superior de <b>Desarrollo de Aplicaciones Web (DAW)</b> en el Campus Digital.
       </p>
       <p>
-        Me enfoco en construir bases sólidas tanto en la estructura lógica con <b>PHP</b> como en la interactividad con <b>JavaScript</b>, siempre trabajando con bases de datos relacionales.
+        Me enfoco en construir aplicaciones web sólidas utilizando <b>PHP</b> para la lógica del servidor y <b>JavaScript</b> para dinamizar el cliente, siempre gestionando los datos con <b>SQL</b>.
       </p>
       <ul>
-        <li>🔭 Trabajando en proyectos de clase y personales.</li>
-        <li>🌱 Perfeccionando el manejo de <b>SQL</b> y consultas complejas.</li>
-        <li>⚡ Buscando crear código limpio y funcional.</li>
+        <li>🏗️ Desarrollando proyectos académicos y personales.</li>
+        <li>🌱 Profundizando en el manejo de bases de datos relacionales.</li>
+        <li>⚡ Interesado en la eficiencia y el código bien estructurado.</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <h3>Stack Actual</h3>
+      <h3>Stack Tecnológico</h3>
       <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=3" />
     </td>
   </tr>
@@ -43,18 +43,18 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/TU_USUARIO/PROYECTO_1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO_1&theme=tokyonight&show_owner=true" />
+        <a href="https://github.com/TU_USUARIO/NOMBRE_PROYECTO_1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_PROYECTO_1&theme=tokyonight&show_owner=true" />
         </a>
         <br />
-        <sub><b>App con PHP y MySQL</b></sub>
+        <sub><b>Proyecto PHP / MySQL</b></sub>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/TU_USUARIO/PROYECTO_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO_2&theme=tokyonight&show_owner=true" />
+        <a href="https://github.com/TU_USUARIO/NOMBRE_PROYECTO_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_PROYECTO_2&theme=tokyonight&show_owner=true" />
         </a>
         <br />
-        <sub><b>Lógica en JavaScript</b></sub>
+        <sub><b>Desarrollo con JavaScript</b></sub>
       </td>
     </tr>
   </table>
@@ -62,9 +62,14 @@
 
 <br />
 
-<h2 align="center">📊 Estadísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Darío" />
-</p>
-
 <hr />
+
+<div align="center">
+  <p>¿Quieres contactar conmigo?</p>
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
