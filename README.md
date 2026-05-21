@@ -42,15 +42,12 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/gxiillee/barber_lah">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxiillee&repo=barber_lah&theme=tokyonight&show_owner=true" />
-        </a>
+        <a href="https://github.com/gxiillee/barber_lah">        </a>
         <br />
         <sub><b>Barber Lah - Gestión</b></sub>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/dariorivasg/Andres-Manjon">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dariorivasg&repo=Andres-Manjon&theme=tokyonight&show_owner=true" />
         </a>
         <br />
         <sub><b>Proyecto Andres Manjon</b></sub>
@@ -59,14 +56,12 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/hateuisa/home-repositorio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hateuisa&repo=home-repositorio&theme=tokyonight&show_owner=true" />
         </a>
         <br />
         <sub><b>Home Repositorio</b></sub>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/dariorivasg/dariorivasg">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dariorivasg&repo=dariorivasg&theme=tokyonight&show_owner=true" />
         </a>
         <br />
         <sub><b>Configuración de Perfil</b></sub>
