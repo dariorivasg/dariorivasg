@@ -20,12 +20,12 @@
         ¡Hola! Soy <b>Darío Rivas</b>, tengo 19 años y actualmente curso el Grado Superior de <b>Desarrollo de Aplicaciones Web (DAW)</b> en el Campus Digital.
       </p>
       <p>
-        Me enfoco en construir aplicaciones web sólidas utilizando <b>PHP</b> para la lógica del servidor y <b>JavaScript</b> para dinamizar el cliente, siempre gestionando los datos con <b>SQL</b>.
+        Me enfoco en construir aplicaciones web sólidas utilizando <b>PHP</b> para la lógica del servidor y <b>JavaScript</b> para la parte del cliente, gestionando datos con <b>SQL</b>.
       </p>
       <ul>
-        <li>🏗️ Desarrollando proyectos académicos y personales.</li>
-        <li>🌱 Profundizando en el manejo de bases de datos relacionales.</li>
-        <li>⚡ Interesado en la eficiencia y el código bien estructurado.</li>
+        <li>🏗️ Colaborando y desarrollando proyectos prácticos.</li>
+        <li>🌱 Especializándome en bases de datos relacionales y lógica de backend.</li>
+        <li>⚡ Comprometido con el aprendizaje continuo en el ecosistema web.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -37,24 +37,40 @@
 
 <br />
 
-<h2 align="center">📂 Mis Proyectos</h2>
+<h2 align="center">📂 Mis Proyectos y Colaboraciones</h2>
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/TU_USUARIO/NOMBRE_PROYECTO_1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_PROYECTO_1&theme=tokyonight&show_owner=true" />
+        <a href="https://github.com/gxiillee/barber_lah">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxiillee&repo=barber_lah&theme=tokyonight&show_owner=true" />
         </a>
         <br />
-        <sub><b>Proyecto PHP / MySQL</b></sub>
+        <sub><b>Barber Lah - Gestión</b></sub>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/TU_USUARIO/NOMBRE_PROYECTO_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_PROYECTO_2&theme=tokyonight&show_owner=true" />
+        <a href="https://github.com/dariorivasg/Andres-Manjon">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dariorivasg&repo=Andres-Manjon&theme=tokyonight&show_owner=true" />
         </a>
         <br />
-        <sub><b>Desarrollo con JavaScript</b></sub>
+        <sub><b>Proyecto Andres Manjon</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/hateuisa/home-repositorio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hateuisa&repo=home-repositorio&theme=tokyonight&show_owner=true" />
+        </a>
+        <br />
+        <sub><b>Home Repositorio</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/dariorivasg/dariorivasg">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dariorivasg&repo=dariorivasg&theme=tokyonight&show_owner=true" />
+        </a>
+        <br />
+        <sub><b>Configuración de Perfil</b></sub>
       </td>
     </tr>
   </table>
@@ -65,7 +81,7 @@
 <hr />
 
 <div align="center">
-  <p>¿Quieres contactar conmigo?</p>
+  <p>¿Hablamos?</p>
   <a href="https://linkedin.com/in/TU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
