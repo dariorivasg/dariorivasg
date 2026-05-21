@@ -36,19 +36,15 @@
 
 <div align="center">
   <a href="https://github.com/gxiillee/barber_lah" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxiillee&repo=barber_lah&theme=tokyonight&show_owner=true" alt="Barber Lah" />
   </a>
   <a href="https://github.com/dariorivasg/Andres-Manjon" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dariorivasg&repo=Andres-Manjon&theme=tokyonight&show_owner=true" alt="Andres Manjon" />
   </a>
   
   <br><br>
 
   <a href="https://github.com/hateuisa/home-repositorio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hateuisa&repo=home-repositorio&theme=tokyonight&show_owner=true" alt="Home Repositorio" />
   </a>
   <a href="https://github.com/dariorivasg/dariorivasg" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dariorivasg&repo=dariorivasg&theme=tokyonight&show_owner=true" alt="Perfil" />
   </a>
 </div>
 
