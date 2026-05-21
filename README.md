@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0074D9&height=200&section=header&text=Dario%20Rivas&fontSize=70&animation=twinkling" width="100%" />
   
   <h3>👨‍💻 Estudiante de DAW | Campus Digital</h3>
   
